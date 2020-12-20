@@ -1,6 +1,6 @@
 # NOTE TAKER
 
-About
+## About
 
 App uses HTML, CSS, JavaScript, Node.js, Express to allow user to input notes. 
 
