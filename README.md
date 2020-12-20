@@ -5,8 +5,7 @@
 App uses HTML, CSS, JavaScript, Node.js, Express to allow user to input notes. 
 
 
-
-Usage
+## Usage
 
 Writes notes and or reminders, delete and save optional.
 App Image
@@ -15,6 +14,6 @@ App Image
 
 
 
-Site Link
+## Site Link
 
 <a href="https://thawing-savannah-21735.herokuapp.com/">https://thawing-savannah-21735.herokuapp.com/</a>
